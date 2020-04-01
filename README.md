@@ -1,2 +1,2 @@
 # Restaurant-Management
-Case Study on Restaurant Management using JAVA
+Case Study on Restaurant Management using JAVA.
